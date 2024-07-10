@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T10:48:17.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_PxFDEglhAH1I3vjkpuF" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-10T04:53:43.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dJkjOHvgL2wW7rUC91l1" version="24.6.4" type="github" pages="4">
   <diagram name="Halaman-1" id="3mCxOQnEBfWGGlRpAVp7">
     <mxGraphModel dx="1571" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,6 +215,73 @@
             <mxPoint x="325" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Vo3e4uv2j-iAW3OZyhEA" name="Halaman-3">
+    <mxGraphModel dx="1567" dy="674" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="249" width="304" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="341" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="396.5" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="452" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f5BQu2ILZYo2uOAvhqCa-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91" y="508" as="sourcePoint" />
+            <mxPoint x="269" y="357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="411.77" as="sourcePoint" />
+            <mxPoint x="269" y="411.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="467.27" as="sourcePoint" />
+            <mxPoint x="269" y="467.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tombol play&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="275" y="348.5" width="65" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tombol About&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="275" y="404" width="69" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tombol&amp;nbsp; quit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="273" y="459.5" width="62" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="276" width="172" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="292.13" as="sourcePoint" />
+            <mxPoint x="312" y="292.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f5BQu2ILZYo2uOAvhqCa-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Judul game&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="313" y="284.25" width="65" height="16.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Wi6QJOTvNLLBU7ucFmUi" name="Halaman-4">
+    <mxGraphModel dx="1050" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
